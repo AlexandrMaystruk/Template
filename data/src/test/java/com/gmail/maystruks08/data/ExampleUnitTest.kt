@@ -1,4 +1,4 @@
-package com.gmail.maystruks08.template
+package com.gmail.maystruks08.data
 
 import org.junit.Test
 
