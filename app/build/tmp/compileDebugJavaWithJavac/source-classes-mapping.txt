@@ -1,0 +1,2 @@
+com/gmail/maystruks08/template/BuildConfig.java
+ com.gmail.maystruks08.template.BuildConfig

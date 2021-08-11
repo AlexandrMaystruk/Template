@@ -1,0 +1,233 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/0110f855aae78a87cb54bfcb0fbdce6c/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/3fd22158e5cc1d4a82cabe000cea4b40/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/8a403b4097bbbb043b0111eff4c1997f/transformed/constraintlayout-2.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/3fd7752c76099b3a183642aa9376cc54/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.3.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/7c3199a0e4fed1d54a42d5192690e1a1/transformed/jetified-room-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.3.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/169a51995021230b1b5f45e8ad54f785/transformed/room-runtime-2.3.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/c6262a6061edd97e126681a9bdc8f8fd/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/0e4aafef5b9185510bd431e625bce742/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/4f29dc193f24370d35afc14b78d448f0/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/125a2a14afd41c36ad657f67446fc1a9/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/f7f13ddecaa6a3a4996132c89e9c20af/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/b74fa763beb4bc1edd823c04b7d6783a/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/26778119790bd2cd37af320da0b1f076/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/b609aca5eae50432f756beedccb7173d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/ddbbe33f866e4e8261a0bfc49646c3da/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/c01b34c0edbfdffff255eeee9646a9f9/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/38563491d1b54cd4dc5353c26368aff4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/9a64724b193039b0d1c7daf6bfe0f7de/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/54f1b91ab2a604fe608393105f1b23b9/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/839d80c2affeb9ed290f15bbc8017330/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/c9b0c5a7863773ae1d0ff1591b46e706/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/f963d85fd55df6e23cbeab9204e43b5d/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/c4376c07bc722f0074a87a5955eeb11c/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/64cbb78b3a55716dbafbf50839386024/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/87dda3d3c945ecd1d694fc9bb6f9cd48/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/4511defa2ae2f0269d6380438dcdd717/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/c774d70a5e2e47f22e0f5bab5bb4eeb7/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/d70eb888323a87c6393d963cb83cd532/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/b199efcb845eafd8ba33a34b5dcb8560/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/56afdfc7f55776b1f42787b02a0de09c/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/b24d84a42e51f5656b1f2088448e594b/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/0903a9646f8785b8624fce898dfb8fa4/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/af75802534bb20b21fe65f61444590d7/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/db8ba2e19289133b2b95e908843a9c8c/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/0bff3848d319fa47dcc1add36579d964/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/986606e90c0f4b644b3fad06e890dbb6/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/dd3ca4b3d912bacd57ff484bfcc7d99f/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/3631bda29e0507be1e4e0925b5bb6e19/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/51430aa5f9799174f4d21fcfb5d8ebef/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/f169ad33ae526ce47480035765b128d9/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/a54a95049410a7bce63fd2bbd32a889e/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/8c641a2adebf2d30b760554e880af8a1/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/fc4c9c5f33910c403566bc375c71da2e/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/fd1183498e33cbd8181b93d11b2f1e40/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.material:material:1.4.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/3fd22158e5cc1d4a82cabe000cea4b40/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/3fd22158e5cc1d4a82cabe000cea4b40/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/8a403b4097bbbb043b0111eff4c1997f/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/8a403b4097bbbb043b0111eff4c1997f/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.3.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/169a51995021230b1b5f45e8ad54f785/transformed/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/169a51995021230b1b5f45e8ad54f785/transformed/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/0e4aafef5b9185510bd431e625bce742/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/0e4aafef5b9185510bd431e625bce742/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.6.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/64cbb78b3a55716dbafbf50839386024/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/64cbb78b3a55716dbafbf50839386024/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/d70eb888323a87c6393d963cb83cd532/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/d70eb888323a87c6393d963cb83cd532/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/3631bda29e0507be1e4e0925b5bb6e19/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/3631bda29e0507be1e4e0925b5bb6e19/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/64cbb78b3a55716dbafbf50839386024/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:11:9-49
+activity#com.gmail.maystruks08.template.MainActivity
+ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:exported
+		ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.6.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/0110f855aae78a87cb54bfcb0fbdce6c/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/0110f855aae78a87cb54bfcb0fbdce6c/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/3fd22158e5cc1d4a82cabe000cea4b40/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/3fd22158e5cc1d4a82cabe000cea4b40/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/8a403b4097bbbb043b0111eff4c1997f/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/8a403b4097bbbb043b0111eff4c1997f/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/3fd7752c76099b3a183642aa9376cc54/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/3fd7752c76099b3a183642aa9376cc54/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/7c3199a0e4fed1d54a42d5192690e1a1/transformed/jetified-room-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/7c3199a0e4fed1d54a42d5192690e1a1/transformed/jetified-room-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/169a51995021230b1b5f45e8ad54f785/transformed/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/169a51995021230b1b5f45e8ad54f785/transformed/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/c6262a6061edd97e126681a9bdc8f8fd/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/c6262a6061edd97e126681a9bdc8f8fd/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/0e4aafef5b9185510bd431e625bce742/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/0e4aafef5b9185510bd431e625bce742/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/4f29dc193f24370d35afc14b78d448f0/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/4f29dc193f24370d35afc14b78d448f0/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/125a2a14afd41c36ad657f67446fc1a9/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/125a2a14afd41c36ad657f67446fc1a9/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/f7f13ddecaa6a3a4996132c89e9c20af/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/f7f13ddecaa6a3a4996132c89e9c20af/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/b74fa763beb4bc1edd823c04b7d6783a/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/b74fa763beb4bc1edd823c04b7d6783a/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/26778119790bd2cd37af320da0b1f076/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/26778119790bd2cd37af320da0b1f076/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/b609aca5eae50432f756beedccb7173d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/b609aca5eae50432f756beedccb7173d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/ddbbe33f866e4e8261a0bfc49646c3da/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/ddbbe33f866e4e8261a0bfc49646c3da/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/c01b34c0edbfdffff255eeee9646a9f9/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/c01b34c0edbfdffff255eeee9646a9f9/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/38563491d1b54cd4dc5353c26368aff4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/38563491d1b54cd4dc5353c26368aff4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/9a64724b193039b0d1c7daf6bfe0f7de/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/9a64724b193039b0d1c7daf6bfe0f7de/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/54f1b91ab2a604fe608393105f1b23b9/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/54f1b91ab2a604fe608393105f1b23b9/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/839d80c2affeb9ed290f15bbc8017330/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/839d80c2affeb9ed290f15bbc8017330/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/c9b0c5a7863773ae1d0ff1591b46e706/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/c9b0c5a7863773ae1d0ff1591b46e706/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/f963d85fd55df6e23cbeab9204e43b5d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/f963d85fd55df6e23cbeab9204e43b5d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/c4376c07bc722f0074a87a5955eeb11c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/c4376c07bc722f0074a87a5955eeb11c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/64cbb78b3a55716dbafbf50839386024/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/64cbb78b3a55716dbafbf50839386024/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/87dda3d3c945ecd1d694fc9bb6f9cd48/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/87dda3d3c945ecd1d694fc9bb6f9cd48/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/4511defa2ae2f0269d6380438dcdd717/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/4511defa2ae2f0269d6380438dcdd717/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/c774d70a5e2e47f22e0f5bab5bb4eeb7/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/c774d70a5e2e47f22e0f5bab5bb4eeb7/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/d70eb888323a87c6393d963cb83cd532/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/d70eb888323a87c6393d963cb83cd532/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/b199efcb845eafd8ba33a34b5dcb8560/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/b199efcb845eafd8ba33a34b5dcb8560/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/56afdfc7f55776b1f42787b02a0de09c/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/56afdfc7f55776b1f42787b02a0de09c/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/b24d84a42e51f5656b1f2088448e594b/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/b24d84a42e51f5656b1f2088448e594b/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/0903a9646f8785b8624fce898dfb8fa4/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/0903a9646f8785b8624fce898dfb8fa4/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/af75802534bb20b21fe65f61444590d7/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/af75802534bb20b21fe65f61444590d7/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/db8ba2e19289133b2b95e908843a9c8c/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/db8ba2e19289133b2b95e908843a9c8c/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/0bff3848d319fa47dcc1add36579d964/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/0bff3848d319fa47dcc1add36579d964/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/986606e90c0f4b644b3fad06e890dbb6/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/986606e90c0f4b644b3fad06e890dbb6/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/dd3ca4b3d912bacd57ff484bfcc7d99f/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/dd3ca4b3d912bacd57ff484bfcc7d99f/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/3631bda29e0507be1e4e0925b5bb6e19/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/3631bda29e0507be1e4e0925b5bb6e19/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/51430aa5f9799174f4d21fcfb5d8ebef/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/51430aa5f9799174f4d21fcfb5d8ebef/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/f169ad33ae526ce47480035765b128d9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/f169ad33ae526ce47480035765b128d9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/a54a95049410a7bce63fd2bbd32a889e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/a54a95049410a7bce63fd2bbd32a889e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/8c641a2adebf2d30b760554e880af8a1/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/8c641a2adebf2d30b760554e880af8a1/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/fc4c9c5f33910c403566bc375c71da2e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/fc4c9c5f33910c403566bc375c71da2e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/fd1183498e33cbd8181b93d11b2f1e40/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/fd1183498e33cbd8181b93d11b2f1e40/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alex/Template/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alex/Template/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/169a51995021230b1b5f45e8ad54f785/transformed/room-runtime-2.3.0/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/169a51995021230b1b5f45e8ad54f785/transformed/room-runtime-2.3.0/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/169a51995021230b1b5f45e8ad54f785/transformed/room-runtime-2.3.0/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/169a51995021230b1b5f45e8ad54f785/transformed/room-runtime-2.3.0/AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/d70eb888323a87c6393d963cb83cd532/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/d70eb888323a87c6393d963cb83cd532/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/d70eb888323a87c6393d963cb83cd532/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/d70eb888323a87c6393d963cb83cd532/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Applications/Android Studio Preview.app/Contents/jre/caches/transforms-3/d70eb888323a87c6393d963cb83cd532/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
